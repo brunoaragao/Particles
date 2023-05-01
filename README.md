@@ -1,6 +1,6 @@
 # Particles
 
-This is an usage example of the [particles.js](https://github.com/VincentGarreau/particles.js) library in a .NET 7 Web Application.
+This is an example of using the [particles.js](https://github.com/VincentGarreau/particles.js) library in a .NET 7 web application.
 
 ## Usage
 
